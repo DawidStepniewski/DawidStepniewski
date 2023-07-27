@@ -3,6 +3,7 @@
 
 ## 🚀 About Me
 I'm a Junior Python Software Engineer at ProPoint. My educational journey began at Silesian University, where I pursued a Bachelor's degree in Automatics and Robotics. After graduating I decided to pursue a Master's degree in Computer Science with a specialization in Data Science. On a daily basis I'm using Python and Javascript implementing ERP solutions.
+<br>
 
 ## 🔨 My tech stack:
 ### Core technologies:
@@ -13,5 +14,6 @@ I'm a Junior Python Software Engineer at ProPoint. My educational journey began 
 ### Basic knowledge of: 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white">
 
+<br>
 ## Connect with me:
 
