@@ -16,4 +16,5 @@ I'm a Junior Python Software Engineer at ProPoint. My educational journey began 
 
 <br>
 ## 📫 Connect with me:
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dawid-st%C4%99pniewski-2b48841a5) <img src="https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge" alt="Mail Badge">](mailto:dawid.stepniewski.ds@gmail.com) 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dawid-st%C4%99pniewski-2b48841a5/) 
+[<img src="https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge" alt="Mail Badge">](mailto:dawid.stepniewski.ds@gmail.com) 
