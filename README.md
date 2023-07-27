@@ -3,6 +3,8 @@
 
 ## 🚀 About Me
 I'm a Junior Python Software Engineer at ProPoint. My educational journey began at Silesian University, where I pursued a Bachelor's degree in Automatics and Robotics. After graduating I decided to pursue a Master's degree in Computer Science with a specialization in Data Science. On a daily basis I'm using Python and Javascript implementing ERP solutions.
+- 🔭 I’m currently working on _Spotify Data Analytics_ - Data Science project meant to analyze Spotify user's data in order to find patterns which led to track's popularity
+- 🌱 I’m currently learning _Apache Spark_, Tensorflow.
 <br>
 
 ## 🔨 My tech stack:
