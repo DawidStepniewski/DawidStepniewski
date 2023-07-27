@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">I'm a Junior Python Software Engineer at ProPoint. My educational journey began at Silesian University, where I pursued a Bachelor's degree in Automatics and Robotics. After graduating I decided to pursue a Master's degree in Computer Science with a specialization in Data Science. On a daily basis I'm using Python and Javascript implementing ERP solutions.</h3>
+<h3>I'm a Junior Python Software Engineer at ProPoint. My educational journey began at Silesian University, where I pursued a Bachelor's degree in Automatics and Robotics. After graduating I decided to pursue a Master's degree in Computer Science with a specialization in Data Science. On a daily basis I'm using Python and Javascript implementing ERP solutions.</h3>
 
 - 🔭 I’m currently working on **Spotify Data Analytics - Data Science project meant to analyze Spotify user's data in order to find patterns which led to track's popularity**
 
