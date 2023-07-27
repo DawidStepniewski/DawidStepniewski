@@ -14,7 +14,6 @@ I'm a Junior Python Software Engineer at ProPoint. My educational journey began 
 ### 💡 Basic knowledge of: 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white"/>
 
-<br>
 ## 📫 Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dawid-st%C4%99pniewski-2b48841a5/) 
 [<img src="https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge" alt="Mail Badge">](mailto:dawid.stepniewski.ds@gmail.com) 
