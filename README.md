@@ -4,7 +4,7 @@
 
 📍 Poland
 
-Building practical machine learning systems—from experimentation to production.
+Building practical machine learning systems - from experimentation to production.
 
 Previously:
 - AI Research Engineer @ Voucherify
