@@ -1,58 +1,18 @@
-# Hi, I'm Dawid! 👋
+# Hi, I'm Dawid 👋
 
-###
+🤖 AI Research Engineer at Voucherify
 
-<h2 align="left">🚀 About me</h2>
+📍 Poland
 
-###
+Building practical machine learning systems—from experimentation to production.
 
-<p align="left">I'm a Junior Python Software Engineer. My educational journey began at Silesian University, where I pursued a Bachelor's degree in Automatics and Robotics. After graduating I decided to pursue a Master's degree in Computer Science with a specialization in Data Science. On a daily basis I'm using Python and Javascript implementing ERP solutions.<br><br>🔭 I’m currently working on my Master thesis - "The influence of the length of a musical song on the quality of classification in terms of music genre". In this project I'm focusing on finding correlation between track's length and quality of classification to music genre. I'm testing various classification models in order to find the best one. Currently I've achieved a ~60% accuracy of classification over 10 genres. <br><br>🌱 I’m currently learning Tensorflow, Apache Spark and Hadoop.</p>
+Previously:
+- AI Research Engineer @ Voucherify
+- Junior Data Scientist @ ING Polska
+- Python Software Developer
 
-###
+### Interests
+Machine Learning • LLMs • Data Engineering • MLOps • NLP • Computer Vision
 
-<h2 align="left">🔨 My tech stack:</h2>
-
-###
-
-<p align="left">🌐 Core technologies:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<p align="left">💡 Basic knowledge of:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-</div>
-
-###
-
-### 📫 Connect with me:
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dawid-st%C4%99pniewski-2b48841a5/) [<img src="https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge" alt="Mail Badge">](mailto:dawid.stepniewski.ds@gmail.com) 
+### Tech
+Python • SQL • PyTorch • TensorFlow • Spark • scikit-learn • Pandas • NumPy • spaCy
